@@ -1,0 +1,10 @@
+C:\Users\whix1\source\repos\BatteryMeter\BatteryMeter\bin\Debug\BatteryMeter.exe.config
+C:\Users\whix1\source\repos\BatteryMeter\BatteryMeter\bin\Debug\BatteryMeter.exe
+C:\Users\whix1\source\repos\BatteryMeter\BatteryMeter\bin\Debug\BatteryMeter.pdb
+C:\Users\whix1\source\repos\BatteryMeter\BatteryMeter\obj\Debug\BatteryMeter.csprojAssemblyReference.cache
+C:\Users\whix1\source\repos\BatteryMeter\BatteryMeter\obj\Debug\BatteryMeter.Form1.resources
+C:\Users\whix1\source\repos\BatteryMeter\BatteryMeter\obj\Debug\BatteryMeter.Properties.Resources.resources
+C:\Users\whix1\source\repos\BatteryMeter\BatteryMeter\obj\Debug\BatteryMeter.csproj.GenerateResource.cache
+C:\Users\whix1\source\repos\BatteryMeter\BatteryMeter\obj\Debug\BatteryMeter.csproj.CoreCompileInputs.cache
+C:\Users\whix1\source\repos\BatteryMeter\BatteryMeter\obj\Debug\BatteryMeter.exe
+C:\Users\whix1\source\repos\BatteryMeter\BatteryMeter\obj\Debug\BatteryMeter.pdb
